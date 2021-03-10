@@ -1,0 +1,99 @@
+**Privacy Principles Checklist** 
+
+
+1.Principle 6** = Access to personal information, this principle states that any individual has the ability/right to request their own personal information. Although an agency does have the right to refuse access to the individual’s information in certain cases. For example. 
+ -if the re-realise of their information could endanger themselves
+ 1b. if it could prevent the detection or could stop an investigation of     criminal offences.
+-or it could involve someone else or breach someone else’s privacy 
+How can someone Access their personal information?  
+An agency/website it would be beneficial for them to have a quick and easy way for users/individuals to access their personal files i.e., allowing them to create a profile/account, where they could access and or request a change of their personal information on the home website.
+What if they cannot find a way to access the information? 
+Have a phone number that an individual can call to request a change of information, and the agency then can note a request of change into the system and email them back once the change has been made or if it has been unsuccessful.  
+
+
+2. Principal 7= following Principle 6, this principle involves the correction of personal information. Meaning that any one individual has the right to file a request of change or correction of their personal information. However, the agency is not required to correct the information and can at the request of the individual, attach a statement regarding their request of correction on the disputed incorrect information. The agency is required to give a reason for the refusal of correction of information and is required to, at the request, attach the statement of correction to the information that the individual says is incorrect.    
+-How could you set out that the individual gets notification of the acceptance or denial of the request?
+I would set up an automatic response system that sends out an email or TXT message to the individual to show them that the request has been received and that if it has been accepted or not. If it has been denied will send a link and reference number so that you can visit and see why it has been denied and what statement of correction has been attached  
+-How could someone change their information?
+ Create a page based on the agency that allows users to input the disputed incorrect information that will then be revised and either accepted or denied based on the reason it was collected and if correction is needed. 
+
+3. Principal 8= Accuracy, principle 8 is relatively like principle 7 in the way it deals with the accuracy of the information that you hold. It is up to the website or agency to be holding the correct information that they have; this does not affect information that was correct at the time it was collected. They also have the responsibility to keep the information correct, if it is being held for future purposes, and to make sure that the information that they are collecting is remanding relevant to the reason it is being collected and used.
+-How would an agency make sure the information collected is still within the reason of collection?
+I would set up a checklist that is used to make sure that the information is correct and is not misleading or moving away from the original purpose it was collected. This checklist would be setup around the reason for collection due to the ever changing of the reason for collection.
+-How can the agencies make sure that the information collected is correct?
+This could be done by using a code that allows the agency to safely input the information into, and it will scan and record the information and base it back to the checklist that is provided. 
+
+4. Principal 10= agencies most not use personal information other than for the use it was collected for. This means that an agency cannot collect say date of birth to create a chart to show how many people were born in this month, to then use it to create a profile for them within their website or for any other use.
+However, there are some instances where they are non-compliant on some grounds which are.
+-The individual has authorized his information to be used in another way.  
+-The other use of their information does connect to the reason of collection.
+Also, the information that the website/agency collected can be used in certain instances such as
+- It is needed to uphold the law or conduct of proceedings before court tribunal.
+- The information in use does not have identifiers of the individual or it is to be used for statistics or research.
+- And if the information was taken from a public record or a public available publication.
+How could an agency make sure that the information collected is still within the reason it is collected?
+For the agency to uphold this they would have to have a set out list of rules and regulations that regard the collection of information that they would reference back to when collecting for instance the list would question. 
+ -Is this relevant to the reason of collection?
+ -Will this information help us regarding the collection purpose?
+ -If another reason of collection is included, does the individual   providing the information give authorization for this use?
+
+-How could an agency avoid an individual of the agency using the information incorrectly?
+Allow members of the agency to upload a copy of the information provided into a site that will allow it to be reviewed by other qualified members of the agency to review it and confirm if it is lawful or misuse of information. 
+
+
+5. Principal 9= This principle regards that the agency cannot hold the information for longer than is required. There also is no minimum required time for you to depose of the information so as soon as you are finished with the information discard it immediately.
+Once the agency is done with the information it is responsible for the way it is disposed of be that returned, destroyed or transferred. But there are ways that these should be carried out.
+For a company to follow this principle they would have to have a retention policy draw up that outlines how and why they discarded of the information. Also, they would have to have some way to see what has been discarded and if done incorrectly how they can get it back and discard it properly. 
+
+
+How could an agency go about making sure the discarding of information is done correctly?
+-Have someone within the agency whose specific job is to uphold and make sure the disposing of information is carried out properly, the individual would be responsible for creating the retention policy for the agency and would make sure it is carried out.
+  What should an agency’s retention policy outline?
+-when making the retention policy you would have to ask themselves, should any personal information given be retained at all? And if so, why should it be retained?
+-What is the minimum amount of time can they hold that information for
+-how will their information be disposed of if so? Will it be destroyed if so how? If transferred where too?
+
+
+
+
+
+url: https://9gag.com/
+
+9gag is an online platform that allows users to see and share content like memes or funny videos on there mobile or computers, With the added feature of uploading and commenting for those who sign up with an email and password. 
+Privacy policy 
+Collection of personal information
+You can access and use the Services without telling us who you are or revealing any information by which someone could identify you as a specific, identifiable individual. If, however, you wish to use some of the features on the Services, you may be asked to provide certain Personal Information (for example, your name and e-mail address). We receive and store any information you knowingly provide to us when you create an account, publish content, or fill any online forums on the Services. When required, this information may include the following:
+* Personal details such as name, country of residence, etc.
+* Contact information such as email address, address, etc.
+* Any other materials you willingly submit to us such as articles, images, feedback, etc.
+Some of the information we collect is directly from you via the Services. However, we may also collect Personal Information about you from other sources such as public databases and our joint marketing partners. You can choose not to provide us with your Personal Information, but then you may not be able to take advantage of some of the features on the Services. Users who are uncertain about what information is mandatory are welcome to contact us.
+Use and processing of collected information.
+In order to make the Services available to you, or to meet a legal obligation, we need to collect and use certain Personal Information. If you do not provide the information that we request, we may not be able to provide you with the requested products or services. Any of the information we collect from you may be used for the following purposes:
+* Create and manage user accounts.
+* Improve user experience.
+* Enforce terms and conditions and policies.
+* Protect from abuse and malicious users.
+* Respond to legal requests and prevent harm.
+* Run and operate the Services.
+Processing your Personal Information depends on how you interact with the Services, where you are located in the world and if one of the following applies: (I) you have given your consent for one or more specific purposes; this, however, does not apply, whenever the processing of Personal Information is subject to California Consumer Privacy Act or European data protection law; (ii) provision of information is necessary for the performance of an agreement with you and/or for any pre-contractual obligations thereof; (iii) processing is necessary for compliance with a legal obligation to which you are subject; (iv) processing is related to a task that is carried out in the public interest or in the exercise of official authority vested in us; (v) processing is necessary for the purposes of the legitimate interests pursued by us or by a third party.
+Note that under some legislations we may be allowed to process information until you object to such processing (by opting out), without having to rely on consent or any other of the following legal bases below. In any case, we will be happy to clarify the specific legal basis that applies to the processing, and whether the provision of Personal Information is a statutory or contractual requirement, or a requirement necessary to enter a contract.
+Managing information
+You can delete certain Personal Information we have about you. The Personal Information you can delete may change as the Services change. When you delete Personal Information, however, we may maintain a copy of the unrevised Personal Information in our records for the duration necessary to comply with our obligations to our affiliates and partners, and for the purposes described below. If you would like to delete your Personal Information or permanently delete your account, you can do so on the settings page of your account on the Services.
+Retention of information
+We will retain and use your Personal Information for the period necessary to comply with our legal obligations, resolve disputes, and enforce our agreements unless a longer retention period is required or permitted by law. We may use any aggregated data derived from or incorporating your Personal Information after you update or delete it, but not in a manner that would identify you personally. Once the retention period expires, Personal Information shall be deleted. Therefore, the right to access, the right to erasure, the right to rectification and the right to data portability cannot be enforced after the expiration of the retention period.
+The rights of users
+You may exercise certain rights regarding your information processed by us. In particular, you have the right to do the following: (I) you have the right to withdraw consent where you have previously given your consent to the processing of your information; (ii) you have the right to object to the processing of your information if the processing is carried out on a legal basis other than consent; (iii) you have the right to learn if information is being processed by us, obtain disclosure regarding certain aspects of the processing and obtain a copy of the information undergoing processing; (iv) you have the right to verify the accuracy of your information and ask for it to be updated or corrected; (v) you have the right, under certain circumstances, to restrict the processing of your information, in which case, we will not process your information for any purpose other than storing it; (vi) you have the right, under certain circumstances, to obtain the erasure of your Personal Information from us; (vii) you have the right to receive your information in a structured, commonly used and machine readable format and, if technically feasible, to have it transmitted to another controller without any hindrance. This provision is applicable provided that your information is processed by automated means and that the processing is based on your consent, on a contract which you are part of or on pre-contractual obligations thereof.
+How to exercise these rights
+Any requests to exercise your rights can be directed to the Operator through the contact details provided in this document. Please note that we may ask you to verify your identity before responding to such requests. Your request must provide sufficient information that allows us to verify that you are the person you are claiming to be or that you are the authorized representative of such person. You must include sufficient details to allow us to properly understand the request and respond to it. We cannot respond to your request or provide you with Personal Information unless we first verify your identity or authority to make such a request and confirm that the Personal Information relates to you.
+they present to you.
+Information security
+We secure information you provide on computer servers in a controlled, secure environment, protected from unauthorized access, use, or disclosure. We maintain reasonable administrative, technical, and physical safeguards to protect against unauthorized access, use, modification, and disclosure of Personal Information in its control and custody. However, no data transmission over the Internet or wireless network can be guaranteed. Therefore, while we strive to protect your Personal Information, you acknowledge that (is) there are security and privacy limitations of the Internet which are beyond our control; (ii) the security, integrity, and privacy of all information and data exchanged between you and the Services cannot be guaranteed; and (iii) any such information and data may be viewed or tampered with in transit by a third party, despite best efforts.
+Data breach
+In the event we become aware that the security of the Services has been compromised or users Personal Information has been disclosed to unrelated third parties as a result of external activity, including, but not limited to, security attacks or fraud, we reserve the right to take reasonably appropriate measures, including, but not limited to, investigation and reporting, as well as notification to and cooperation with law enforcement authorities. In the event of a data breach, we will make reasonable efforts to notify affected individuals if we believe that there is a reasonable risk of harm to the user as a result of the breach or if notice is otherwise required by law. When we do, we will send you an email.
+Acceptance of this policy
+You acknowledge that you have read this Policy and agree to all its terms and conditions. By accessing and using the Services you agree to be bound by this Policy. If you do not agree to abide by the terms of this Policy, you are not authorized to access or use the Services.
+Contacting us
+If you would like to contact us to understand more about this Policy or wish to contact us concerning any matter relating to individual rights and your Personal Information, you may do so via the contact form.
+
+
+Within this policy you will find information for anyone who would need it. It states what they will be collecting and in what many it will be collected, for instance the policy says that it will require you to provide an email, also a password for creating an account which will allow you to post and comment on user’s content. Also included is how they will manage the information that you have provided and what the retention policy as well regarding the discarding or deleting of information. It also shows us what rights and how to use them as well as telling you about the security of your information, and at the end it lists what the acceptance and denial of the policy will cause. Finally finishing it off with how to get in contact with the agency to talk over any of these policies.
